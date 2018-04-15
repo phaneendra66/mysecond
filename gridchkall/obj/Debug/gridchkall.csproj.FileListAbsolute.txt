@@ -1,0 +1,5 @@
+F:\projects\gridchkall\gridchkall\bin\gridchkall.dll
+F:\projects\gridchkall\gridchkall\bin\gridchkall.pdb
+F:\projects\gridchkall\gridchkall\obj\Debug\gridchkall.dll
+F:\projects\gridchkall\gridchkall\obj\Debug\gridchkall.pdb
+F:\projects\gridchkall\gridchkall\obj\Debug\gridchkall.csprojResolveAssemblyReference.cache
